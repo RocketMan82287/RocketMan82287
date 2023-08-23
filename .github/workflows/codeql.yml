@@ -36,9 +36,9 @@ jobs:
       security-events: write
 
     strategy:
-      fail-fast: false
-      matrix:
-        language: [  ]
+      
+  
+        language
         # CodeQL supports [ 'cpp', 'csharp', 'go', 'java', 'javascript', 'python', 'ruby', 'swift' ]
         # Use only 'java' to analyze code written in Java, Kotlin or both
         # Use only 'javascript' to analyze code written in JavaScript, TypeScript or both
